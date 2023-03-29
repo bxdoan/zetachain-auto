@@ -1,10 +1,14 @@
 # zetachain-auto
+Python script support for zetachain incentive program.
 
-install python  
-install webdriver
 git clone https://github.com/bxdoan/zetachain-auto 
 
-## Python packages
+## Install
+```shell
+install python  
+install webdriver
+```
+
 ```shell
 pip3 install -r requirements.txt
 ```
