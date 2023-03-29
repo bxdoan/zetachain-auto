@@ -2,7 +2,7 @@
 
 install python  
 install webdriver
-git clone https://github.com/0xplode/zetachain-form  
+git clone https://github.com/bxdoan/zetachain-auto 
 
 ## Python packages
 ```shell
