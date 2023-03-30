@@ -5,7 +5,7 @@ import time
 
 def fill_form():
     # read the data
-    data = pd.read_csv('../wallet.csv')
+    data = pd.read_csv('wallet.csv')
     recycle = data.shape[0]
     
     # define webdriver

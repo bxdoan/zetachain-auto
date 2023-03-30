@@ -19,6 +19,7 @@ pipenv install
 
 ## Run
 ```shell
+cp wallet.sample.json wallet.json
 python zetachain-auto/oat101.py
 python zetachain-auto/oat201.py  
 ```
