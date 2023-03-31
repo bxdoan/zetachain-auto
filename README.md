@@ -1,9 +1,19 @@
 # zetachain-auto
 Python script support for zetachain incentive program.
 
-git clone https://github.com/bxdoan/zetachain-auto 
+## Resources for incentive airdrop
+- [Questboards](https://crew3.xyz/c/zetachain/invite/FLWlBMdJLCMdV1PrwQ1dY)
+- [Guilds](https://galxe.com/ZetaChain/campaign/GCatUUwYSY)
+- [Zetachain Labs](https://labs.zetachain.com/leaderboard?code=uHBgwPutNrhhANf_hRskq)
+
 
 ## Install
+
+```shell
+git clone https://github.com/bxdoan/zetachain-auto 
+```
+
+
 ```shell
 install python  
 install webdriver
