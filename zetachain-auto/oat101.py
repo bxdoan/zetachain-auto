@@ -5,6 +5,7 @@ import time
 
 def fill_form():
     # read the data
+    # data = pd.read_csv('./../wallet.csv')
     data = pd.read_csv('wallet.csv')
     recycle = data.shape[0]
     
@@ -13,7 +14,7 @@ def fill_form():
     
     # define the XPaths of the radio buttons
     radio_button_xpaths = [
-        '//*[@id="i15"]/div[2]/div',
+        '//*[@id="i18"]/div[2]/div',
         '//*[@id="i25"]/div[3]/div',
         '//*[@id="i47"]/div[3]/div',
         '//*[@id="i66"]/div[3]/div',
