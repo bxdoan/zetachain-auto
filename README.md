@@ -1,3 +1,4 @@
+![](./zetachain.jpeg)
 # zetachain-auto
 Python script support for zetachain incentive program.
 
